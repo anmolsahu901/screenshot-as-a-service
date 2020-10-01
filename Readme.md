@@ -1,4 +1,4 @@
-# Screenshot as a Service
+# Screenshot as a good Service
 
 A simple screenshot web service powered by [Express](http://expressjs.com) and [PhantomJS](http://www.phantomjs.org/). Forked from [screenshot-app](http://github.com/visionmedia/screenshot-app).
 
